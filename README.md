@@ -16,5 +16,3 @@ This project provides a chess-playing experience where users can play against an
 - **Legal Move Validation**: Ensures all moves follow chess rules.
 - **Undo Move**: Option to undo the last move.
 - **Customizable Board Theme**: Easily switch board colors and themes.
-
----
