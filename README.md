@@ -23,7 +23,7 @@ Pygame library installed
 ### Clone the repository:
 <br>
 ``` 
-  git clone https://github.com/<your-username>/Chess-AI.git
+git clone https://github.com/<your-username>/Chess-AI.git
 ```
 ### `cd Chess-AI`
 <br>
