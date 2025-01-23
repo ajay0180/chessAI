@@ -29,9 +29,7 @@ This project provides a chess-playing experience where users can play against an
 ### Steps
 
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/<your-username>/Chess-AI.git
-   cd Chess-AI
+   ```bash git clone https://github.com/<your-username>/Chess-AI.git cd Chess-AI
 ### Clone the repository:
 <br>
 ``` 
