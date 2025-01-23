@@ -34,7 +34,8 @@ Pygame library installed
 <br>
 Steps:
 Clone the repository:
-`git clone https://github.com/<your-username>/Chess-AI.git`
+<br>
+\git clone https://github.com/<your-username>/Chess-AI.git\
 cd Chess-AI
 Install the required dependencies:
 pip install pygame
