@@ -3,14 +3,53 @@ Chess AI using python
 
 • Successfully created a chess AI program using Python, leveraging various algorithms such as minimax with alpha-beta pruning to enable efficient and intelligent decision-making during gameplay.
 <br>
-• Achieved high performance and accuracy: Optimized the AI algorithm to deliver excellent performance, achieving competitive gameplay against human opponents or other AI systems.
+
+This is a Chess AI project built using Python and Pygame. The application provides a chess-playing experience where users can play against an AI opponent. The AI implements chess strategies to make moves and offers a challenging gameplay experience.
+
 <br>
-• Implemented a user-friendly interface: Designed and integrated a user-friendly graphical interface that allows players to interact seamlessly with the chess AI. The interface provides intuitive controls for moving pieces, highlighting legal moves
-<br>
-•	Tech stacks used – Python.
+Features
+
+Two-player Mode: Play chess with another person locally.
+
+AI Mode: Play against an AI with a chess algorithm.
+
+Pygame-based GUI: Interactive graphical user interface for playing chess.
+
+Legal Move Validation: Ensures all moves follow chess rules.
+
+Undo Move: Option to undo the last move.
+
+Customizable Board Theme: Easily switch board colors and themes.
+
 <br>
 
-Click below for a sample VIDEO:
+Installation
 
-[![Watch the video](https://img.youtube.com/vi/8fvHtI2E9Uo/sddefault.jpg)](https://youtu.be/8fvHtI2E9Uo)
+Prerequisites
 
+Python 3.x installed on your system
+
+Pygame library installed
+
+<br>
+Steps:
+Clone the repository:
+git clone https://github.com/<your-username>/Chess-AI.git
+cd Chess-AI
+Install the required dependencies:
+pip install pygame
+Run the application:
+python3 main.py
+
+<br>
+How to Play
+
+Launch the game by running main.py.
+
+Choose to play against another player or the AI.
+
+Click and drag pieces to make your move.
+
+Press the "Undo" button to reverse the last move (if enabled).
+
+Enjoy the game!
